@@ -20,5 +20,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Here is live demo
 
-vue-template-design.netlify.app
+https://vue-template-design.netlify.app/
 
